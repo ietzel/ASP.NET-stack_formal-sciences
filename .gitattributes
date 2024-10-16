@@ -1,1 +1,1 @@
-*.js *.cs linguist-detectable=false
+*.js, *.cs linguist-detectable=false
