@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SPA-Web-Form.aspx.cs" Inherits="SoftwareProcessAid.SPA_Web_Form" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="SPA-Web-Form.aspx.cs" Inherits="SoftwareProcessAid.SPA_Web_Form"%>
 
 <!DOCTYPE html>
 
