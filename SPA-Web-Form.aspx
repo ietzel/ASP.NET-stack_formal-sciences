@@ -13,6 +13,7 @@
             <p>"With regards to process elements, six analysis/design layers are architectural (where), data/class (what), interface (how), procedural (when), component (why), and deployment (who)."</p>
             <p>"Diagrams by modeling spaces may be recommended: problem (use case & activity) during planning, solution (class & sequence) during analysis & design, and architectural (component & deployment) during implementation/etc."</p>
             <p>Categories may comprise of sets/groups/topologies/etc.</p>
+            <p>Choose from the following topics: formal, natural, social, other.</p>
         </div>
     </form>
 </body>
