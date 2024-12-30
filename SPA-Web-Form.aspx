@@ -5,6 +5,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Formal Sciences</title>
+    <style> 
+            body {
+                background-color: rgb(0,0,64);
+            }
+    </style>
 </head>
 <body>
     <h1>Process Project Product</h1>
